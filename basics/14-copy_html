@@ -1,3 +1,4 @@
 #!/bin/bash
-cp -a ./.html holbertonschool-shell
+cp *.html /holbertonschool-shell
+
 
