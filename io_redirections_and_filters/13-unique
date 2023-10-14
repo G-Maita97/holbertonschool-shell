@@ -1,2 +1,2 @@
 #!/bin/bash
-sort Lista_palbras | uniq -u
+uniq -u
