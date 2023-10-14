@@ -1,3 +1,2 @@
 #!/bin/bash
-rm --one-file-system *".js" | ls -lR *".js"
-hola
+find . -type f -name "*.js" -exec rm 
